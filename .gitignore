@@ -1,0 +1,6 @@
+# clojure
+.nrepl-port
+.nrepl-history
+
+# python
+venv/
